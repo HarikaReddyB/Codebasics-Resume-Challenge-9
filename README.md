@@ -5,7 +5,9 @@ AtliQ Mart is a retail giant that operates over 50 supermarkets in the southern 
 
 # Tools used for analysis:
 MySQL: Used to solve the Ad-hoc Business Requests.
+
 PowerBI: Used for DAX, data models, and other required charts to create dynamic and interactive dashboards.
+
 PowerPoint: Used for creating a PowerPoint presentation to show valuable insights and recommendations for the sales director.
 
 # Links:
