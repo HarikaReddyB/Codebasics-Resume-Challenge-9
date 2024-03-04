@@ -10,4 +10,5 @@ PowerPoint: Used for creating a PowerPoint presentation to show valuable insight
 
 # Links:
 GitHub: https://github.com/HarikaReddyB/Codebasics-Resume-Challenge-9/
+
 NovyPro: https://www.novypro.com/project/atliq-supermarket-analysis-report
